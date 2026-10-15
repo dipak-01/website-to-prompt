@@ -1,0 +1,5 @@
+# Scratch / OS files
+.directory
+*.txt
+.DS_Store
+node_modules/
