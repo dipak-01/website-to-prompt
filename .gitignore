@@ -3,3 +3,7 @@
 *.txt
 .DS_Store
 node_modules/
+
+# Generated outputs
+design.md
+goal_design.md

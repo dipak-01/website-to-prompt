@@ -35,8 +35,7 @@ website-to-prompt/
 │           │   └── css-extraction-guide.md               # CSS token extraction reference
 │           └── scripts/
 │               └── extract-design-tokens.js              # Token extraction utility script
-├── design.md                                             # Example master prompt (Modernist Editorial & Pastel Luminescence)
-├── goal_design.md                                        # Reference format benchmark (Swiss International)
+├── .gitignore
 └── README.md
 ```
 
