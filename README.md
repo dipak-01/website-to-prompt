@@ -55,7 +55,7 @@ website-to-prompt/
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/your-username/website-to-prompt.git ~/website-to-prompt
+git clone https://github.com/dipak-01/website-to-prompt.git ~/website-to-prompt
 
 # 2. Copy the skill to your global Antigravity config
 mkdir -p ~/.gemini/config/skills/
@@ -66,7 +66,7 @@ cp -r ~/website-to-prompt/.agents/skills/website-to-prompt ~/.gemini/config/skil
 
 ```bash
 # Run from inside your project root
-git clone https://github.com/your-username/website-to-prompt.git /tmp/wtp
+git clone https://github.com/dipak-01/website-to-prompt.git /tmp/wtp
 mkdir -p .agents/skills/
 cp -r /tmp/wtp/.agents/skills/website-to-prompt .agents/skills/
 ```
@@ -80,7 +80,7 @@ Then prompt the agent:
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/your-username/website-to-prompt.git ~/website-to-prompt
+git clone https://github.com/dipak-01/website-to-prompt.git ~/website-to-prompt
 
 # Option A — global (available in every Claude Code session)
 mkdir -p ~/.claude/skills/
@@ -100,7 +100,7 @@ Then prompt:
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/your-username/website-to-prompt.git ~/website-to-prompt
+git clone https://github.com/dipak-01/website-to-prompt.git ~/website-to-prompt
 
 # 2. Add as a project rule (run from your project root)
 mkdir -p .cursor/rules/
@@ -116,7 +116,7 @@ Or paste the contents of `SKILL.md` directly into **Cursor Settings → Rules fo
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/your-username/website-to-prompt.git ~/website-to-prompt
+git clone https://github.com/dipak-01/website-to-prompt.git ~/website-to-prompt
 
 # 2. Add to your project rules (run from your project root)
 cp ~/website-to-prompt/.agents/skills/website-to-prompt/SKILL.md .windsurfrules
